@@ -4,6 +4,8 @@ Introduction
 
 Ultimate 64 RGB LED Controller is an addon module for the Ultimate 64 (U64), which allows you to select your own custom LED colours for the power & activity LED. 
 
+<img src="assets/Pasted-into-U64-RGB-LED-Controller.png" alt="img" style="zoom:50%;" />
+
 The colours can be change by using a simple basic tool which communicates over the serial port with the module. 
 
 See change log for history.
